@@ -12,6 +12,9 @@ Build Instructions
 
 Installation / Configuration
 
+* This connector require java SDK 1.8u45 or other version prior to Java SDK 1.8u60 the main reazon is some bugs whit new releases of Java SDk in conflict wthi AWS SDk 
+* thank you to Diego Magalhães for the orientation and help
+
  * After installing the `alfresco-s3.amp` package you will need to add some properties to your `alfresco-global.properties` file:
  
 ```
